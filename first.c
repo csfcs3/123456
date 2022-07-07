@@ -2,5 +2,11 @@
 
 int mian()
 {
-	printf("helloworld");
+	
+
+
+
+
+	printf("hello world");
+	return 0;
 }
